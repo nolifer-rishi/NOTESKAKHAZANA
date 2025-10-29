@@ -14,6 +14,10 @@ It’s a perfect beginner-friendly project to understand how on-chain data stora
 - 🧱 Fully decentralized — no server or database required
 
 ---
+## 🔗 Deployed Smart Contract
+
+**Network:** Ethereum Testnet / (or any network you used)  
+**Contract Address:** `https://celo-sepolia.blockscout.com/address/0x0481Ec400493a563b492c74F53C289410F771A5D`
 
 
 <img width="1902" height="942" alt="image" src="https://github.com/user-attachments/assets/343f38b1-d9db-4cca-922e-2241a6450921" />
