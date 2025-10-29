@@ -16,7 +16,7 @@ It’s a perfect beginner-friendly project to understand how on-chain data stora
 ---
 ## 🔗 Deployed Smart Contract
 
-**Network:** Ethereum Testnet / (or any network you used)  
+**Network:** Ethereum Testnet
 **Contract Address:** `https://celo-sepolia.blockscout.com/address/0x0481Ec400493a563b492c74F53C289410F771A5D`
 
 
